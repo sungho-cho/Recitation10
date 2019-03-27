@@ -12,6 +12,8 @@ public class MoneyDoorPlugin implements GamePlugin {
     private int ONE = 1;
     private int TEN = 10;
 
+    private int test = 0;
+
     // The game framework
     private GameFramework framework = null;
 
